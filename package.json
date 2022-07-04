@@ -1,0 +1,20 @@
+{
+    "displayName": "HG UI Components",
+    "name": "com.hg.uicomps",
+    "author": { "name": "Ian M. (HG-Dev)", "url": "https://github.com/HG-Dev/" },
+    "version": "0.0.1",
+    "unity": "2018.4",
+    "license": "MIT",
+    "description": "Extendable UI MonoBehaviours and ScriptableObjects. Requires UGUI for demonstration purposes.",
+    "keywords": [
+      "hg",
+      "ui"
+    ],
+    "repository": {
+      "url": "https://github.com/HG-Dev/com.hg.uicomps.git",
+      "type": "git"
+    },
+    "dependencies": {
+        "com.unity.ugui": "1.0.0"
+    }
+}
